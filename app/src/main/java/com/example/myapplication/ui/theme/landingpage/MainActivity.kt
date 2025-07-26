@@ -1,4 +1,4 @@
-package com.example.myapplication.landingpage
+package com.example.myapplication.ui.theme.landingpage
 
 import android.content.Intent
 import android.os.Bundle
